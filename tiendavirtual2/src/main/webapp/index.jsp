@@ -11,6 +11,7 @@
 		Mi primera pagina dinamica
 		modificacion adicional de grupo
 	</h1>
+	<p>Vamos agregando informacion para trabajar</p>
 	<form method="get" action="./tv2_servlet">
 		<table>
 			<tr>
