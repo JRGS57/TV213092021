@@ -9,6 +9,7 @@
 <body>
 	<h1>
 		Mi primera pagina dinamica
+		modificacion adicional de grupo
 	</h1>
 	<form method="get" action="./tv2_servlet">
 		<table>
